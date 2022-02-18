@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_username">Username</string>
+    <string name="txt_register">Don\'t have an account? Register</string>
+    <string name="txt_pick">PICK THE DESIGN</string>
+    <string name="txt_like">YOU LIKE</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_start">START NOW</string>
+    <string name="txt_pick_your_design">Pick your design!</string>
+    <string name="txt_pick2">Pick your best design with our professional architect</string>
+    <string name="txt_avorite">Favorite</string>
+    <string name="txt_pickone">PickOne</string>
+</resources>
